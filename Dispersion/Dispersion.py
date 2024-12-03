@@ -39,7 +39,7 @@ plt.xlabel('Year')
 plt.ylabel('Population / Deviation')
 plt.title('Population Data with Dispersion Measures')
 plt.legend()
-plt.savefig('Despersion1.png')
+plt.savefig('Dispersion.png')
 # Show the plot
 plt.tight_layout()
 plt.show()
