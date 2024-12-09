@@ -4,6 +4,7 @@
 
 
 # Methodology:
-
+## Framework: 
+[](Materials/Framework.svg)
 
 # Result:
