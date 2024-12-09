@@ -19,10 +19,11 @@ A dual-stream network for population projection is proposed, integrating 1D Conv
 ## Statistical Methods:
 
 ### Additive Decomposition:
-Is applied to korea population data to break it into four key components: observed, trend, seasonal, and residual. The observed component represents the raw data as recorded. The trend captures the underlying long-term patterns, providing insights into the overall direction of change over time. The seasonal component identifies recurring patterns or cycles within the data, reflecting periodic fluctuations. The residual isolates irregular or random variations not explained by the trend or seasonality, aiding in the identification of anomalies and refinement of analysis.
+Decomposition techniques are applied to population data to break it into four key components: observed, trend, seasonal, and residual. The observed component represents the raw data as recorded. The trend captures the underlying long-term patterns, providing insights into the overall direction of change over time. The seasonal component identifies recurring patterns or cycles within the data, reflecting periodic fluctuations. The residual isolates irregular or random variations not explained by the trend or seasonality, aiding in the identification of anomalies and refinement of analysis. Both additive and STL decomposition methods are utilized for a comprehensive understanding of the data's structure
 
 ![](Materials/KoreMonthly_additive.PNG)
 
+- STL Decomosition
 ![](STL_Decomposition/STL_Decomposition.png)
 
 
