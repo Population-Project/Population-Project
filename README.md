@@ -1,3 +1,4 @@
+<div align="justify">
 # Koreapopulation: Korea Demographic Projections
 
 ## Introduction:
@@ -44,5 +45,5 @@ Feature selection in population forecasting is the process of identifying and se
 - **ANN**
 ![](ANN_Based_Feature_Selection/ANN.png)
 
-
+</div>
 
