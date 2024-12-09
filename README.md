@@ -23,6 +23,8 @@ Is applied to korea population data to break it into four key components: observ
 
 ![](Materials/KoreMonthly_additive.PNG)
 
+![](STL_Decomposition/STL_Decomposition.png)
+
 
 
 
