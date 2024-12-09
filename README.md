@@ -38,4 +38,10 @@ In the context of population forecasting is used to identify which factors or va
 ![](ICA/ICA.png)
 
 
+### Features Selection
+Feature selection in population forecasting is the process of identifying and selecting the most relevant features from a larger set of data, which contribute significantly to predicting population trends and projections. By eliminating irrelevant, redundant, or highly correlated features, feature selection helps improve model efficiency, reduce overfitting, and enhance the interpretability of the model. It also speeds up computation by reducing the dimensionality of the dataset. Common techniques for feature selection include filter methods, wrapper methods, and embedded methods, which evaluate features based on statistical tests, model performance, or feature importance scores. Effective feature selection is crucial for building robust and accurate models that can provide reliable insights for policy and planning decisions.
+
+![](ANN_Based_Feature_Selection/ANN.png)
+
+
 
