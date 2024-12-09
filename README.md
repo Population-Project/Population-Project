@@ -1,4 +1,4 @@
-# Population-Project-
+# Population-Project
 
 # Introduction:
 
