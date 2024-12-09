@@ -10,7 +10,7 @@ Population forecasting plays a crucial role in planning and decision-making acro
 ### Additive Decomposition:
 Additive decomposition is applied to time series data to break it into four key components: observed, trend, seasonal, and residual. The observed component represents the raw data as recorded. The trend captures the underlying long-term patterns, providing insights into the overall direction of change over time. The seasonal component identifies recurring patterns or cycles within the data, reflecting periodic fluctuations. The residual isolates irregular or random variations not explained by the trend or seasonality, aiding in the identification of anomalies and refinement of analysis.
 
-![](Additive decomposition/KoreMonthly_additive.PNG)
+![](Materials/KoreMonthly_additive.PNG)
 
 
 ## Assoicated Articles of the Project:
