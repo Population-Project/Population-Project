@@ -5,6 +5,6 @@
 
 # Methodology:
 ## Framework: 
-[](Materials/Framework.svg)
+![](Materials/Framework.svg)
 
 # Result:
