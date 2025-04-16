@@ -1,6 +1,6 @@
 <div align="justify">
   
-# Koreapopulation: Korea Demographic Projections
+# Korea Population: Korea Demographic Projections
 
 ## Introduction:
 
